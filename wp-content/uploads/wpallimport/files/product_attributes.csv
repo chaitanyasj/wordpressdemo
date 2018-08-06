@@ -1,0 +1,238 @@
+Product SKU,Option Name,Choice Name
+FTIP,Imprint,One color print on both side (Included)
+FTIP,Imprint,Four color print on both sides
+FTIP,Product colors,Black
+FTIP,Product colors,Forest Green
+FTIP,Product colors,Lime Green
+FTIP,Product colors,Pink
+FTIP,Product colors,Royal Blue
+FTIP,Product colors,Yellow
+FTIP,Product colors,Orange
+FTIP,Product colors,Purple
+WT1-5,Imprint,One color print (Included)
+WT1-5,Imprint,Two color print (Included)
+WT1-5,Imprint,Four color print (Included)
+WT1-75,Imprint,One color print (Included)
+WT1-75,Imprint,Two color print (Included)
+WT1-75,Imprint,Four color print (Included)
+DSP,Pin Size,"1/2"" x 1/2"" (Included)"
+DSP,Pin Size,"3/4"" x 3/4"""
+DSP,Pin Size,"1"" x 1"""
+SEMP.5,Imprint,One color print on one side (Included)
+SEMP.5,Imprint,Two color print on one side
+SEMP.5,Imprint,Three color print on one side
+SEMP.5,Imprint,Four color print on one side
+SEMP.75,Imprint,One color print on one side (Included)
+SEMP.75,Imprint,Two color print on one side
+SEMP.75,Imprint,Three color print on one side
+SEMP.75,Imprint,Four color print on one side
+SEMP1,Imprint,One color print on one side (Included)
+SEMP1,Imprint,Two color print on one side
+SEMP1,Imprint,Three color print on one side
+SEMP1,Imprint,Four color print on one side
+RS,Imprint,One color print (Included)
+RS,Imprint,Two color print (Included)
+RS,Imprint,Four color print (Included)
+CFCC,Imprint,One color print (Included)
+CFCC,Imprint,Two color print (Included)
+CFCC,Imprint,Four color print (Included)
+SBB,Product colors,I will specify/upload the color breakdown
+SBB,Product sizes,I will specify/upload the adult/child size breakdown
+CCM,Imprint,One color print on one side (Included)
+CCM,Imprint,Two color print on one side
+CCM,Imprint,Three color print on one side
+CCM,Imprint,Four color print on one side
+CCM,Product colors,I will specify/upload the color breakdown
+CCM,Product colors,Black
+CCM,Product colors,Blue
+CCM,Product colors,Lime Green
+CCM,Product colors,Midnight Blue
+CCM,Product colors,Orange
+CCM,Product colors,Red
+CCM,Product colors,White
+CCM,Product colors,Yellow
+CTT,Imprint,One color print on one side (Included)
+CTT,Imprint,Two color print on one side
+CTT,Imprint,Four color print on one side
+WBWC,Product colors,Black
+WBWC,Product colors,Lime Green
+WBWC,Product colors,Purple
+WBWC,Product colors,Red
+WBWC,Product colors,Royal Blue
+WBWC,Product colors,Silver
+WBWC,Product colors,White
+WBCS,Product colors,Black
+WBCS,Product colors,Lime Green
+WBCS,Product colors,Orange
+WBCS,Product colors,Purple
+WBCS,Product colors,Red
+WBCS,Product colors,Royal Blue
+WBCS,Product colors,White
+Lanyard.5,Imprint,One color print on both sides (Included)
+Lanyard.5,Imprint,Four color process on both sides
+Lanyard.5,Product colors,Assorted - I will specify/upload the required color (s)
+Lanyard.5,Attachment Type,Breakaway clip
+Lanyard.5,Attachment Type,Metal crimp/swivel thumb trigger
+Lanyard.5,Attachment Type,Other (I will specify/upload requirement)
+Lanyard.75,Imprint,One color print on both sides (Included)
+Lanyard.75,Imprint,Four color process on both sides
+Lanyard.75,Product colors,Assorted - I will specify/upload the required color (s)
+Lanyard.75,Attachment Type,Breakaway clip
+Lanyard.75,Attachment Type,Metal crimp/swivel thumb trigger
+Lanyard.75,Attachment Type,Other (I will specify/upload requirement)
+GPS,Product colors,Gun Metal
+GPS,Product colors,Gun Metal Silver
+GPS,Product colors,Silver Red
+GPS,Product colors,Red Gold
+GPS,Product colors,Gold Blue
+GPS,Product colors,Blue Black
+GPS,Product colors,Black
+PBP,Product colors,Purple
+PBP,Product colors,Blue
+PBP,Product colors,Green
+PBP,Product colors,Black
+PBP,Product colors,Yellow
+PBP,Product colors,Light Blue
+PBP,Product colors,Red
+SCCP,Product colors,Assorted - I will specify/upload the required color (s)
+UCPC,Product colors,Assorted - I will specify/upload the required color (s)
+UCPC,Product colors,Black
+UCPC,Product colors,Blue
+UCPC,Product colors,Silver
+UCPC,Product colors,Red
+UCPC,Product colors,Green
+ST,Product colors,White
+ST,Imprint,One color print on both sides (Included)
+ST,Imprint,Four color print on both sides
+AS,Imprint,One color print on one side (Included)
+AS,Imprint,Full color on one side
+AS,Imprint,Embroidered logo on one side
+AS,Product colors,I will specify/upload the color breakdown
+AS,Product colors,Ash Gray
+AS,Product colors,Azalea Pink
+AS,Product colors,Black
+AS,Product colors,Carolina Blue
+AS,Product colors,Daisy Yellow
+AS,Product colors,Dark Heather Gray
+AS,Product colors,Electric Green
+AS,Product colors,Forest Green
+AS,Product colors,Gold
+AS,Product colors,Graphite Heather Gray
+AS,Product colors,Heliconia Pink
+AS,Product colors,Irish Green
+AS,Product colors,Jade Dome Green
+AS,Product colors,Kelly Green
+AS,Product colors,Light Blue
+AS,Product colors,Light Pink
+AS,Product colors,Lime Green
+AS,Product colors,Maroon Red
+AS,Product colors,Navy Blue
+AS,Product colors,Orange
+AS,Product colors,Orchid Pink
+AS,Product colors,Purple
+AS,Product colors,Red
+AS,Product colors,Royal Blue
+AS,Product colors,Safety Green
+AS,Product colors,Sand Beige
+AS,Product colors,Sapphire Blue
+AS,Product colors,Sports Gray
+AS,Product colors,Tennessee Orange
+AS,Product colors,Texas Orange
+AS,Product colors,White
+AS,Product sizes,I will specify/upload the size breakdown
+YS,Imprint,One color print on one side (Included)
+YS,Imprint,Full color on one side
+YS,Imprint,Embroidered logo on one side
+YS,Product colors,I will specify/upload the color breakdown
+YS,Product colors,Ash Gray
+YS,Product colors,Azalea Pink
+YS,Product colors,Black
+YS,Product colors,Carolina Blue
+YS,Product colors,Daisy Yellow
+YS,Product colors,Dark Heather Gray
+YS,Product colors,Electric Green
+YS,Product colors,Forest Green
+YS,Product colors,Gold
+YS,Product colors,Graphite Heather Gray
+YS,Product colors,Heliconia Pink
+YS,Product colors,Irish Green
+YS,Product colors,Jade Dome Green
+YS,Product colors,Kelly Green
+YS,Product colors,Light Blue
+YS,Product colors,Light Pink
+YS,Product colors,Lime Green
+YS,Product colors,Maroon Red
+YS,Product colors,Navy Blue
+YS,Product colors,Orange
+YS,Product colors,Orchid Pink
+YS,Product colors,Purple
+YS,Product colors,Red
+YS,Product colors,Royal Blue
+YS,Product colors,Safety Green
+YS,Product colors,Sand Beige
+YS,Product colors,Sapphire Blue
+YS,Product colors,Sports Gray
+YS,Product colors,Tennessee Orange
+YS,Product colors,Texas Orange
+YS,Product colors,White
+YS,Product sizes,I will specify/upload the size breakdown
+GS,Imprint,One color print on one side (Included)
+GS,Imprint,Full color on one side
+GS,Imprint,Embroidered logo on one side
+GS,Product colors,I will specify/upload the color breakdown
+GS,Product colors,White
+GS,Product colors,Black
+GS,Product colors,Charcoal Gray
+GS,Product colors,Dark Heather Grey
+GS,Product colors,Forest Green
+GS,Product colors,Light Blue
+GS,Product colors,Maroon Red
+GS,Product colors,Navy Blue
+GS,Product colors,Purple
+GS,Product colors,Red
+GS,Product colors,Royal Blue
+GS,Product colors,Safety Orange
+GS,Product colors,Safety Green
+GS,Product colors,Sports Gray
+GS,Product sizes,I will specify/upload the size breakdown
+HU,Imprint,One color print on one side (Included)
+HU,Imprint,Full color on one side
+HU,Imprint,Embroidered logo on one side
+HU,Product colors,I will specify/upload the color breakdown
+HU,Product colors,Black/Red
+HU,Product colors,Black/Sport Gray
+HU,Product colors,Navy Blue/Gold
+HU,Product colors,Navy Blue/Sport Gray
+HU,Product colors,Red/Sport Gray
+HU,Product colors,Royal Blue/Sport Gray
+HU,Product sizes,I will specify/upload the size breakdown
+Tuque,Imprint,One color print on one side (Included)
+Tuque,Imprint,Full color on one side (Included)
+Tuque,Imprint,Embroidered logo on one side
+Tuque,Product colors,I will specify/upload the color breakdown
+Tuque,Product colors,Black
+Tuque,Product colors,Dark Gray
+Tuque,Product colors,Forest Green
+Tuque,Product colors,Orange
+Tuque,Product colors,Navy
+Tuque,Product colors,Pink
+Tuque,Product colors,Red
+Tuque,Product colors,Royal
+Tuque,Product colors,Slate
+Tuque,Product colors,White
+Cap,Imprint,One color print on one side (Included)
+Cap,Imprint,Embroidered logo on one side
+Cap,Imprint,Embroidered logo on both sides
+Cap,Product colors,I will specify/upload the color breakdown
+Cap,Product colors,Black/Gold
+Cap,Product colors,Black/Red
+Cap,Product colors,Black/Stone Beige
+Cap,Product colors,Forest Green/Stone Beige
+Cap,Product colors,Khaki Beige/Black
+Cap,Product colors,Navy Blue/Red
+Cap,Product colors,Navy Blue/Stone Beige
+Cap,Product colors,Red/Black
+Cap,Product colors,Red/White
+Cap,Product colors,Royal Blue/White
+Cap,Product colors,Stone Beige/Black
+Cap,Product colors,Stone Beige/Navy Blue

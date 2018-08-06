@@ -1,0 +1,40 @@
+/*
+Theme Name: Avada Child
+Description: Child theme for Avada theme
+Author: ThemeFusion
+Author URI: https://theme-fusion.com
+Template: Avada
+Version: 1.0.0
+Text Domain:  Avada
+*/
+
+
+.fusion-logo-link{
+   width: 165px;
+    height: 49px;
+}
+.content-container{
+font-size: 16px;
+}
+.main_div{
+	height: 300px;
+	border: 1px solid #9E9E9E;
+}
+.drag {
+
+    float: left;
+    position: relative;
+    width: 50px;
+    height: 50px;
+    background: grey;
+    margin: 5px;
+}
+.fusion-image-carousel-fixed.fs-home-carousel1 .fusion-carousel .fusion-carousel-wrapper {
+    height: 260px !important;
+}
+.fs-home-carousel1 .fusion-carousel .fusion-image-wrapper img {
+    max-height: 100% !important;
+}
+.fs-home-carousel1 .fusion-carousel .fusion-image-wrapper {
+	height: 100% !important;
+}

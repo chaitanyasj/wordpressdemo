@@ -1,0 +1,1188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<node>
+		<productsku><![CDATA[FTIP]]></productsku>
+		<optionname><![CDATA[Imprint]]></optionname>
+		<choicename><![CDATA[One color print on both side (Included)]]></choicename>
+	</node>
+	<node>
+		<productsku><![CDATA[FTIP]]></productsku>
+		<optionname><![CDATA[Imprint]]></optionname>
+		<choicename><![CDATA[Four color print on both sides]]></choicename>
+	</node>
+	<node>
+		<productsku><![CDATA[FTIP]]></productsku>
+		<optionname><![CDATA[Product colors]]></optionname>
+		<choicename><![CDATA[Black]]></choicename>
+	</node>
+	<node>
+		<productsku><![CDATA[FTIP]]></productsku>
+		<optionname><![CDATA[Product colors]]></optionname>
+		<choicename><![CDATA[Forest Green]]></choicename>
+	</node>
+	<node>
+		<productsku><![CDATA[FTIP]]></productsku>
+		<optionname><![CDATA[Product colors]]></optionname>
+		<choicename><![CDATA[Lime Green]]></choicename>
+	</node>
+	<node>
+		<productsku><![CDATA[FTIP]]></productsku>
+		<optionname><![CDATA[Product colors]]></optionname>
+		<choicename><![CDATA[Pink]]></choicename>
+	</node>
+	<node>
+		<productsku><![CDATA[FTIP]]></productsku>
+		<optionname><![CDATA[Product colors]]></optionname>
+		<choicename><![CDATA[Royal Blue]]></choicename>
+	</node>
+	<node>
+		<productsku><![CDATA[FTIP]]></productsku>
+		<optionname><![CDATA[Product colors]]></optionname>
+		<choicename><![CDATA[Yellow]]></choicename>
+	</node>
+	<node>
+		<productsku><![CDATA[FTIP]]></productsku>
+		<optionname><![CDATA[Product colors]]></optionname>
+		<choicename><![CDATA[Orange]]></choicename>
+	</node>
+	<node>
+		<productsku><![CDATA[FTIP]]></productsku>
+		<optionname><![CDATA[Product colors]]></optionname>
+		<choicename><![CDATA[Purple]]></choicename>
+	</node>
+	<node>
+		<productsku><![CDATA[WT1-5]]></productsku>
+		<optionname><![CDATA[Imprint]]></optionname>
+		<choicename><![CDATA[One color print (Included)]]></choicename>
+	</node>
+	<node>
+		<productsku><![CDATA[WT1-5]]></productsku>
+		<optionname><![CDATA[Imprint]]></optionname>
+		<choicename><![CDATA[Two color print (Included)]]></choicename>
+	</node>
+	<node>
+		<productsku><![CDATA[WT1-5]]></productsku>
+		<optionname><![CDATA[Imprint]]></optionname>
+		<choicename><![CDATA[Four color print (Included)]]></choicename>
+	</node>
+	<node>
+		<productsku><![CDATA[WT1-75]]></productsku>
+		<optionname><![CDATA[Imprint]]></optionname>
+		<choicename><![CDATA[One color print (Included)]]></choicename>
+	</node>
+	<node>
+		<productsku><![CDATA[WT1-75]]></productsku>
+		<optionname><![CDATA[Imprint]]></optionname>
+		<choicename><![CDATA[Two color print (Included)]]></choicename>
+	</node>
+	<node>
+		<productsku><![CDATA[WT1-75]]></productsku>
+		<optionname><![CDATA[Imprint]]></optionname>
+		<choicename><![CDATA[Four color print (Included)]]></choicename>
+	</node>
+	<node>
+		<productsku><![CDATA[DSP]]></productsku>
+		<optionname><![CDATA[Pin Size]]></optionname>
+		<choicename><![CDATA[1/2" x 1/2" (Included)]]></choicename>
+	</node>
+	<node>
+		<productsku><![CDATA[DSP]]></productsku>
+		<optionname><![CDATA[Pin Size]]></optionname>
+		<choicename><![CDATA[3/4" x 3/4"]]></choicename>
+	</node>
+	<node>
+		<productsku><![CDATA[DSP]]></productsku>
+		<optionname><![CDATA[Pin Size]]></optionname>
+		<choicename><![CDATA[1" x 1"]]></choicename>
+	</node>
+	<node>
+		<productsku><![CDATA[SEMP.5]]></productsku>
+		<optionname><![CDATA[Imprint]]></optionname>
+		<choicename><![CDATA[One color print on one side (Included)]]></choicename>
+	</node>
+	<node>
+		<productsku><![CDATA[SEMP.5]]></productsku>
+		<optionname><![CDATA[Imprint]]></optionname>
+		<choicename><![CDATA[Two color print on one side]]></choicename>
+	</node>
+	<node>
+		<productsku><![CDATA[SEMP.5]]></productsku>
+		<optionname><![CDATA[Imprint]]></optionname>
+		<choicename><![CDATA[Three color print on one side]]></choicename>
+	</node>
+	<node>
+		<productsku><![CDATA[SEMP.5]]></productsku>
+		<optionname><![CDATA[Imprint]]></optionname>
+		<choicename><![CDATA[Four color print on one side]]></choicename>
+	</node>
+	<node>
+		<productsku><![CDATA[SEMP.75]]></productsku>
+		<optionname><![CDATA[Imprint]]></optionname>
+		<choicename><![CDATA[One color print on one side (Included)]]></choicename>
+	</node>
+	<node>
+		<productsku><![CDATA[SEMP.75]]></productsku>
+		<optionname><![CDATA[Imprint]]></optionname>
+		<choicename><![CDATA[Two color print on one side]]></choicename>
+	</node>
+	<node>
+		<productsku><![CDATA[SEMP.75]]></productsku>
+		<optionname><![CDATA[Imprint]]></optionname>
+		<choicename><![CDATA[Three color print on one side]]></choicename>
+	</node>
+	<node>
+		<productsku><![CDATA[SEMP.75]]></productsku>
+		<optionname><![CDATA[Imprint]]></optionname>
+		<choicename><![CDATA[Four color print on one side]]></choicename>
+	</node>
+	<node>
+		<productsku><![CDATA[SEMP1]]></productsku>
+		<optionname><![CDATA[Imprint]]></optionname>
+		<choicename><![CDATA[One color print on one side (Included)]]></choicename>
+	</node>
+	<node>
+		<productsku><![CDATA[SEMP1]]></productsku>
+		<optionname><![CDATA[Imprint]]></optionname>
+		<choicename><![CDATA[Two color print on one side]]></choicename>
+	</node>
+	<node>
+		<productsku><![CDATA[SEMP1]]></productsku>
+		<optionname><![CDATA[Imprint]]></optionname>
+		<choicename><![CDATA[Three color print on one side]]></choicename>
+	</node>
+	<node>
+		<productsku><![CDATA[SEMP1]]></productsku>
+		<optionname><![CDATA[Imprint]]></optionname>
+		<choicename><![CDATA[Four color print on one side]]></choicename>
+	</node>
+	<node>
+		<productsku><![CDATA[RS]]></productsku>
+		<optionname><![CDATA[Imprint]]></optionname>
+		<choicename><![CDATA[One color print (Included)]]></choicename>
+	</node>
+	<node>
+		<productsku><![CDATA[RS]]></productsku>
+		<optionname><![CDATA[Imprint]]></optionname>
+		<choicename><![CDATA[Two color print (Included)]]></choicename>
+	</node>
+	<node>
+		<productsku><![CDATA[RS]]></productsku>
+		<optionname><![CDATA[Imprint]]></optionname>
+		<choicename><![CDATA[Four color print (Included)]]></choicename>
+	</node>
+	<node>
+		<productsku><![CDATA[CFCC]]></productsku>
+		<optionname><![CDATA[Imprint]]></optionname>
+		<choicename><![CDATA[One color print (Included)]]></choicename>
+	</node>
+	<node>
+		<productsku><![CDATA[CFCC]]></productsku>
+		<optionname><![CDATA[Imprint]]></optionname>
+		<choicename><![CDATA[Two color print (Included)]]></choicename>
+	</node>
+	<node>
+		<productsku><![CDATA[CFCC]]></productsku>
+		<optionname><![CDATA[Imprint]]></optionname>
+		<choicename><![CDATA[Four color print (Included)]]></choicename>
+	</node>
+	<node>
+		<productsku><![CDATA[SBB]]></productsku>
+		<optionname><![CDATA[Product colors]]></optionname>
+		<choicename><![CDATA[I will specify/upload the color breakdown]]></choicename>
+	</node>
+	<node>
+		<productsku><![CDATA[SBB]]></productsku>
+		<optionname><![CDATA[Product sizes]]></optionname>
+		<choicename><![CDATA[I will specify/upload the adult/child size breakdown]]></choicename>
+	</node>
+	<node>
+		<productsku><![CDATA[CCM]]></productsku>
+		<optionname><![CDATA[Imprint]]></optionname>
+		<choicename><![CDATA[One color print on one side (Included)]]></choicename>
+	</node>
+	<node>
+		<productsku><![CDATA[CCM]]></productsku>
+		<optionname><![CDATA[Imprint]]></optionname>
+		<choicename><![CDATA[Two color print on one side]]></choicename>
+	</node>
+	<node>
+		<productsku><![CDATA[CCM]]></productsku>
+		<optionname><![CDATA[Imprint]]></optionname>
+		<choicename><![CDATA[Three color print on one side]]></choicename>
+	</node>
+	<node>
+		<productsku><![CDATA[CCM]]></productsku>
+		<optionname><![CDATA[Imprint]]></optionname>
+		<choicename><![CDATA[Four color print on one side]]></choicename>
+	</node>
+	<node>
+		<productsku><![CDATA[CCM]]></productsku>
+		<optionname><![CDATA[Product colors]]></optionname>
+		<choicename><![CDATA[I will specify/upload the color breakdown]]></choicename>
+	</node>
+	<node>
+		<productsku><![CDATA[CCM]]></productsku>
+		<optionname><![CDATA[Product colors]]></optionname>
+		<choicename><![CDATA[Black]]></choicename>
+	</node>
+	<node>
+		<productsku><![CDATA[CCM]]></productsku>
+		<optionname><![CDATA[Product colors]]></optionname>
+		<choicename><![CDATA[Blue]]></choicename>
+	</node>
+	<node>
+		<productsku><![CDATA[CCM]]></productsku>
+		<optionname><![CDATA[Product colors]]></optionname>
+		<choicename><![CDATA[Lime Green]]></choicename>
+	</node>
+	<node>
+		<productsku><![CDATA[CCM]]></productsku>
+		<optionname><![CDATA[Product colors]]></optionname>
+		<choicename><![CDATA[Midnight Blue]]></choicename>
+	</node>
+	<node>
+		<productsku><![CDATA[CCM]]></productsku>
+		<optionname><![CDATA[Product colors]]></optionname>
+		<choicename><![CDATA[Orange]]></choicename>
+	</node>
+	<node>
+		<productsku><![CDATA[CCM]]></productsku>
+		<optionname><![CDATA[Product colors]]></optionname>
+		<choicename><![CDATA[Red]]></choicename>
+	</node>
+	<node>
+		<productsku><![CDATA[CCM]]></productsku>
+		<optionname><![CDATA[Product colors]]></optionname>
+		<choicename><![CDATA[White]]></choicename>
+	</node>
+	<node>
+		<productsku><![CDATA[CCM]]></productsku>
+		<optionname><![CDATA[Product colors]]></optionname>
+		<choicename><![CDATA[Yellow]]></choicename>
+	</node>
+	<node>
+		<productsku><![CDATA[CTT]]></productsku>
+		<optionname><![CDATA[Imprint]]></optionname>
+		<choicename><![CDATA[One color print on one side (Included)]]></choicename>
+	</node>
+	<node>
+		<productsku><![CDATA[CTT]]></productsku>
+		<optionname><![CDATA[Imprint]]></optionname>
+		<choicename><![CDATA[Two color print on one side]]></choicename>
+	</node>
+	<node>
+		<productsku><![CDATA[CTT]]></productsku>
+		<optionname><![CDATA[Imprint]]></optionname>
+		<choicename><![CDATA[Four color print on one side]]></choicename>
+	</node>
+	<node>
+		<productsku><![CDATA[WBWC]]></productsku>
+		<optionname><![CDATA[Product colors]]></optionname>
+		<choicename><![CDATA[Black]]></choicename>
+	</node>
+	<node>
+		<productsku><![CDATA[WBWC]]></productsku>
+		<optionname><![CDATA[Product colors]]></optionname>
+		<choicename><![CDATA[Lime Green]]></choicename>
+	</node>
+	<node>
+		<productsku><![CDATA[WBWC]]></productsku>
+		<optionname><![CDATA[Product colors]]></optionname>
+		<choicename><![CDATA[Purple]]></choicename>
+	</node>
+	<node>
+		<productsku><![CDATA[WBWC]]></productsku>
+		<optionname><![CDATA[Product colors]]></optionname>
+		<choicename><![CDATA[Red]]></choicename>
+	</node>
+	<node>
+		<productsku><![CDATA[WBWC]]></productsku>
+		<optionname><![CDATA[Product colors]]></optionname>
+		<choicename><![CDATA[Royal Blue]]></choicename>
+	</node>
+	<node>
+		<productsku><![CDATA[WBWC]]></productsku>
+		<optionname><![CDATA[Product colors]]></optionname>
+		<choicename><![CDATA[Silver]]></choicename>
+	</node>
+	<node>
+		<productsku><![CDATA[WBWC]]></productsku>
+		<optionname><![CDATA[Product colors]]></optionname>
+		<choicename><![CDATA[White]]></choicename>
+	</node>
+	<node>
+		<productsku><![CDATA[WBCS]]></productsku>
+		<optionname><![CDATA[Product colors]]></optionname>
+		<choicename><![CDATA[Black]]></choicename>
+	</node>
+	<node>
+		<productsku><![CDATA[WBCS]]></productsku>
+		<optionname><![CDATA[Product colors]]></optionname>
+		<choicename><![CDATA[Lime Green]]></choicename>
+	</node>
+	<node>
+		<productsku><![CDATA[WBCS]]></productsku>
+		<optionname><![CDATA[Product colors]]></optionname>
+		<choicename><![CDATA[Orange]]></choicename>
+	</node>
+	<node>
+		<productsku><![CDATA[WBCS]]></productsku>
+		<optionname><![CDATA[Product colors]]></optionname>
+		<choicename><![CDATA[Purple]]></choicename>
+	</node>
+	<node>
+		<productsku><![CDATA[WBCS]]></productsku>
+		<optionname><![CDATA[Product colors]]></optionname>
+		<choicename><![CDATA[Red]]></choicename>
+	</node>
+	<node>
+		<productsku><![CDATA[WBCS]]></productsku>
+		<optionname><![CDATA[Product colors]]></optionname>
+		<choicename><![CDATA[Royal Blue]]></choicename>
+	</node>
+	<node>
+		<productsku><![CDATA[WBCS]]></productsku>
+		<optionname><![CDATA[Product colors]]></optionname>
+		<choicename><![CDATA[White]]></choicename>
+	</node>
+	<node>
+		<productsku><![CDATA[Lanyard.5]]></productsku>
+		<optionname><![CDATA[Imprint]]></optionname>
+		<choicename><![CDATA[One color print on both sides (Included)]]></choicename>
+	</node>
+	<node>
+		<productsku><![CDATA[Lanyard.5]]></productsku>
+		<optionname><![CDATA[Imprint]]></optionname>
+		<choicename><![CDATA[Four color process on both sides]]></choicename>
+	</node>
+	<node>
+		<productsku><![CDATA[Lanyard.5]]></productsku>
+		<optionname><![CDATA[Product colors]]></optionname>
+		<choicename><![CDATA[Assorted - I will specify/upload the required color (s)]]></choicename>
+	</node>
+	<node>
+		<productsku><![CDATA[Lanyard.5]]></productsku>
+		<optionname><![CDATA[Attachment Type]]></optionname>
+		<choicename><![CDATA[Breakaway clip]]></choicename>
+	</node>
+	<node>
+		<productsku><![CDATA[Lanyard.5]]></productsku>
+		<optionname><![CDATA[Attachment Type]]></optionname>
+		<choicename><![CDATA[Metal crimp/swivel thumb trigger]]></choicename>
+	</node>
+	<node>
+		<productsku><![CDATA[Lanyard.5]]></productsku>
+		<optionname><![CDATA[Attachment Type]]></optionname>
+		<choicename><![CDATA[Other (I will specify/upload requirement)]]></choicename>
+	</node>
+	<node>
+		<productsku><![CDATA[Lanyard.75]]></productsku>
+		<optionname><![CDATA[Imprint]]></optionname>
+		<choicename><![CDATA[One color print on both sides (Included)]]></choicename>
+	</node>
+	<node>
+		<productsku><![CDATA[Lanyard.75]]></productsku>
+		<optionname><![CDATA[Imprint]]></optionname>
+		<choicename><![CDATA[Four color process on both sides]]></choicename>
+	</node>
+	<node>
+		<productsku><![CDATA[Lanyard.75]]></productsku>
+		<optionname><![CDATA[Product colors]]></optionname>
+		<choicename><![CDATA[Assorted - I will specify/upload the required color (s)]]></choicename>
+	</node>
+	<node>
+		<productsku><![CDATA[Lanyard.75]]></productsku>
+		<optionname><![CDATA[Attachment Type]]></optionname>
+		<choicename><![CDATA[Breakaway clip]]></choicename>
+	</node>
+	<node>
+		<productsku><![CDATA[Lanyard.75]]></productsku>
+		<optionname><![CDATA[Attachment Type]]></optionname>
+		<choicename><![CDATA[Metal crimp/swivel thumb trigger]]></choicename>
+	</node>
+	<node>
+		<productsku><![CDATA[Lanyard.75]]></productsku>
+		<optionname><![CDATA[Attachment Type]]></optionname>
+		<choicename><![CDATA[Other (I will specify/upload requirement)]]></choicename>
+	</node>
+	<node>
+		<productsku><![CDATA[GPS]]></productsku>
+		<optionname><![CDATA[Product colors]]></optionname>
+		<choicename><![CDATA[Gun Metal]]></choicename>
+	</node>
+	<node>
+		<productsku><![CDATA[GPS]]></productsku>
+		<optionname><![CDATA[Product colors]]></optionname>
+		<choicename><![CDATA[Gun Metal Silver]]></choicename>
+	</node>
+	<node>
+		<productsku><![CDATA[GPS]]></productsku>
+		<optionname><![CDATA[Product colors]]></optionname>
+		<choicename><![CDATA[Silver Red]]></choicename>
+	</node>
+	<node>
+		<productsku><![CDATA[GPS]]></productsku>
+		<optionname><![CDATA[Product colors]]></optionname>
+		<choicename><![CDATA[Red Gold]]></choicename>
+	</node>
+	<node>
+		<productsku><![CDATA[GPS]]></productsku>
+		<optionname><![CDATA[Product colors]]></optionname>
+		<choicename><![CDATA[Gold Blue]]></choicename>
+	</node>
+	<node>
+		<productsku><![CDATA[GPS]]></productsku>
+		<optionname><![CDATA[Product colors]]></optionname>
+		<choicename><![CDATA[Blue Black]]></choicename>
+	</node>
+	<node>
+		<productsku><![CDATA[GPS]]></productsku>
+		<optionname><![CDATA[Product colors]]></optionname>
+		<choicename><![CDATA[Black]]></choicename>
+	</node>
+	<node>
+		<productsku><![CDATA[PBP]]></productsku>
+		<optionname><![CDATA[Product colors]]></optionname>
+		<choicename><![CDATA[Purple]]></choicename>
+	</node>
+	<node>
+		<productsku><![CDATA[PBP]]></productsku>
+		<optionname><![CDATA[Product colors]]></optionname>
+		<choicename><![CDATA[Blue]]></choicename>
+	</node>
+	<node>
+		<productsku><![CDATA[PBP]]></productsku>
+		<optionname><![CDATA[Product colors]]></optionname>
+		<choicename><![CDATA[Green]]></choicename>
+	</node>
+	<node>
+		<productsku><![CDATA[PBP]]></productsku>
+		<optionname><![CDATA[Product colors]]></optionname>
+		<choicename><![CDATA[Black]]></choicename>
+	</node>
+	<node>
+		<productsku><![CDATA[PBP]]></productsku>
+		<optionname><![CDATA[Product colors]]></optionname>
+		<choicename><![CDATA[Yellow]]></choicename>
+	</node>
+	<node>
+		<productsku><![CDATA[PBP]]></productsku>
+		<optionname><![CDATA[Product colors]]></optionname>
+		<choicename><![CDATA[Light Blue]]></choicename>
+	</node>
+	<node>
+		<productsku><![CDATA[PBP]]></productsku>
+		<optionname><![CDATA[Product colors]]></optionname>
+		<choicename><![CDATA[Red]]></choicename>
+	</node>
+	<node>
+		<productsku><![CDATA[SCCP]]></productsku>
+		<optionname><![CDATA[Product colors]]></optionname>
+		<choicename><![CDATA[Assorted - I will specify/upload the required color (s)]]></choicename>
+	</node>
+	<node>
+		<productsku><![CDATA[UCPC]]></productsku>
+		<optionname><![CDATA[Product colors]]></optionname>
+		<choicename><![CDATA[Assorted - I will specify/upload the required color (s)]]></choicename>
+	</node>
+	<node>
+		<productsku><![CDATA[UCPC]]></productsku>
+		<optionname><![CDATA[Product colors]]></optionname>
+		<choicename><![CDATA[Black]]></choicename>
+	</node>
+	<node>
+		<productsku><![CDATA[UCPC]]></productsku>
+		<optionname><![CDATA[Product colors]]></optionname>
+		<choicename><![CDATA[Blue]]></choicename>
+	</node>
+	<node>
+		<productsku><![CDATA[UCPC]]></productsku>
+		<optionname><![CDATA[Product colors]]></optionname>
+		<choicename><![CDATA[Silver]]></choicename>
+	</node>
+	<node>
+		<productsku><![CDATA[UCPC]]></productsku>
+		<optionname><![CDATA[Product colors]]></optionname>
+		<choicename><![CDATA[Red]]></choicename>
+	</node>
+	<node>
+		<productsku><![CDATA[UCPC]]></productsku>
+		<optionname><![CDATA[Product colors]]></optionname>
+		<choicename><![CDATA[Green]]></choicename>
+	</node>
+	<node>
+		<productsku><![CDATA[ST]]></productsku>
+		<optionname><![CDATA[Product colors]]></optionname>
+		<choicename><![CDATA[White]]></choicename>
+	</node>
+	<node>
+		<productsku><![CDATA[ST]]></productsku>
+		<optionname><![CDATA[Imprint]]></optionname>
+		<choicename><![CDATA[One color print on both sides (Included)]]></choicename>
+	</node>
+	<node>
+		<productsku><![CDATA[ST]]></productsku>
+		<optionname><![CDATA[Imprint]]></optionname>
+		<choicename><![CDATA[Four color print on both sides]]></choicename>
+	</node>
+	<node>
+		<productsku><![CDATA[AS]]></productsku>
+		<optionname><![CDATA[Imprint]]></optionname>
+		<choicename><![CDATA[One color print on one side (Included)]]></choicename>
+	</node>
+	<node>
+		<productsku><![CDATA[AS]]></productsku>
+		<optionname><![CDATA[Imprint]]></optionname>
+		<choicename><![CDATA[Full color on one side]]></choicename>
+	</node>
+	<node>
+		<productsku><![CDATA[AS]]></productsku>
+		<optionname><![CDATA[Imprint]]></optionname>
+		<choicename><![CDATA[Embroidered logo on one side]]></choicename>
+	</node>
+	<node>
+		<productsku><![CDATA[AS]]></productsku>
+		<optionname><![CDATA[Product colors]]></optionname>
+		<choicename><![CDATA[I will specify/upload the color breakdown]]></choicename>
+	</node>
+	<node>
+		<productsku><![CDATA[AS]]></productsku>
+		<optionname><![CDATA[Product colors]]></optionname>
+		<choicename><![CDATA[Ash Gray]]></choicename>
+	</node>
+	<node>
+		<productsku><![CDATA[AS]]></productsku>
+		<optionname><![CDATA[Product colors]]></optionname>
+		<choicename><![CDATA[Azalea Pink]]></choicename>
+	</node>
+	<node>
+		<productsku><![CDATA[AS]]></productsku>
+		<optionname><![CDATA[Product colors]]></optionname>
+		<choicename><![CDATA[Black]]></choicename>
+	</node>
+	<node>
+		<productsku><![CDATA[AS]]></productsku>
+		<optionname><![CDATA[Product colors]]></optionname>
+		<choicename><![CDATA[Carolina Blue]]></choicename>
+	</node>
+	<node>
+		<productsku><![CDATA[AS]]></productsku>
+		<optionname><![CDATA[Product colors]]></optionname>
+		<choicename><![CDATA[Daisy Yellow]]></choicename>
+	</node>
+	<node>
+		<productsku><![CDATA[AS]]></productsku>
+		<optionname><![CDATA[Product colors]]></optionname>
+		<choicename><![CDATA[Dark Heather Gray]]></choicename>
+	</node>
+	<node>
+		<productsku><![CDATA[AS]]></productsku>
+		<optionname><![CDATA[Product colors]]></optionname>
+		<choicename><![CDATA[Electric Green]]></choicename>
+	</node>
+	<node>
+		<productsku><![CDATA[AS]]></productsku>
+		<optionname><![CDATA[Product colors]]></optionname>
+		<choicename><![CDATA[Forest Green]]></choicename>
+	</node>
+	<node>
+		<productsku><![CDATA[AS]]></productsku>
+		<optionname><![CDATA[Product colors]]></optionname>
+		<choicename><![CDATA[Gold]]></choicename>
+	</node>
+	<node>
+		<productsku><![CDATA[AS]]></productsku>
+		<optionname><![CDATA[Product colors]]></optionname>
+		<choicename><![CDATA[Graphite Heather Gray]]></choicename>
+	</node>
+	<node>
+		<productsku><![CDATA[AS]]></productsku>
+		<optionname><![CDATA[Product colors]]></optionname>
+		<choicename><![CDATA[Heliconia Pink]]></choicename>
+	</node>
+	<node>
+		<productsku><![CDATA[AS]]></productsku>
+		<optionname><![CDATA[Product colors]]></optionname>
+		<choicename><![CDATA[Irish Green]]></choicename>
+	</node>
+	<node>
+		<productsku><![CDATA[AS]]></productsku>
+		<optionname><![CDATA[Product colors]]></optionname>
+		<choicename><![CDATA[Jade Dome Green]]></choicename>
+	</node>
+	<node>
+		<productsku><![CDATA[AS]]></productsku>
+		<optionname><![CDATA[Product colors]]></optionname>
+		<choicename><![CDATA[Kelly Green]]></choicename>
+	</node>
+	<node>
+		<productsku><![CDATA[AS]]></productsku>
+		<optionname><![CDATA[Product colors]]></optionname>
+		<choicename><![CDATA[Light Blue]]></choicename>
+	</node>
+	<node>
+		<productsku><![CDATA[AS]]></productsku>
+		<optionname><![CDATA[Product colors]]></optionname>
+		<choicename><![CDATA[Light Pink]]></choicename>
+	</node>
+	<node>
+		<productsku><![CDATA[AS]]></productsku>
+		<optionname><![CDATA[Product colors]]></optionname>
+		<choicename><![CDATA[Lime Green]]></choicename>
+	</node>
+	<node>
+		<productsku><![CDATA[AS]]></productsku>
+		<optionname><![CDATA[Product colors]]></optionname>
+		<choicename><![CDATA[Maroon Red]]></choicename>
+	</node>
+	<node>
+		<productsku><![CDATA[AS]]></productsku>
+		<optionname><![CDATA[Product colors]]></optionname>
+		<choicename><![CDATA[Navy Blue]]></choicename>
+	</node>
+	<node>
+		<productsku><![CDATA[AS]]></productsku>
+		<optionname><![CDATA[Product colors]]></optionname>
+		<choicename><![CDATA[Orange]]></choicename>
+	</node>
+	<node>
+		<productsku><![CDATA[AS]]></productsku>
+		<optionname><![CDATA[Product colors]]></optionname>
+		<choicename><![CDATA[Orchid Pink]]></choicename>
+	</node>
+	<node>
+		<productsku><![CDATA[AS]]></productsku>
+		<optionname><![CDATA[Product colors]]></optionname>
+		<choicename><![CDATA[Purple]]></choicename>
+	</node>
+	<node>
+		<productsku><![CDATA[AS]]></productsku>
+		<optionname><![CDATA[Product colors]]></optionname>
+		<choicename><![CDATA[Red]]></choicename>
+	</node>
+	<node>
+		<productsku><![CDATA[AS]]></productsku>
+		<optionname><![CDATA[Product colors]]></optionname>
+		<choicename><![CDATA[Royal Blue]]></choicename>
+	</node>
+	<node>
+		<productsku><![CDATA[AS]]></productsku>
+		<optionname><![CDATA[Product colors]]></optionname>
+		<choicename><![CDATA[Safety Green]]></choicename>
+	</node>
+	<node>
+		<productsku><![CDATA[AS]]></productsku>
+		<optionname><![CDATA[Product colors]]></optionname>
+		<choicename><![CDATA[Sand Beige]]></choicename>
+	</node>
+	<node>
+		<productsku><![CDATA[AS]]></productsku>
+		<optionname><![CDATA[Product colors]]></optionname>
+		<choicename><![CDATA[Sapphire Blue]]></choicename>
+	</node>
+	<node>
+		<productsku><![CDATA[AS]]></productsku>
+		<optionname><![CDATA[Product colors]]></optionname>
+		<choicename><![CDATA[Sports Gray]]></choicename>
+	</node>
+	<node>
+		<productsku><![CDATA[AS]]></productsku>
+		<optionname><![CDATA[Product colors]]></optionname>
+		<choicename><![CDATA[Tennessee Orange]]></choicename>
+	</node>
+	<node>
+		<productsku><![CDATA[AS]]></productsku>
+		<optionname><![CDATA[Product colors]]></optionname>
+		<choicename><![CDATA[Texas Orange]]></choicename>
+	</node>
+	<node>
+		<productsku><![CDATA[AS]]></productsku>
+		<optionname><![CDATA[Product colors]]></optionname>
+		<choicename><![CDATA[White]]></choicename>
+	</node>
+	<node>
+		<productsku><![CDATA[AS]]></productsku>
+		<optionname><![CDATA[Product sizes]]></optionname>
+		<choicename><![CDATA[I will specify/upload the size breakdown]]></choicename>
+	</node>
+	<node>
+		<productsku><![CDATA[YS]]></productsku>
+		<optionname><![CDATA[Imprint]]></optionname>
+		<choicename><![CDATA[One color print on one side (Included)]]></choicename>
+	</node>
+	<node>
+		<productsku><![CDATA[YS]]></productsku>
+		<optionname><![CDATA[Imprint]]></optionname>
+		<choicename><![CDATA[Full color on one side]]></choicename>
+	</node>
+	<node>
+		<productsku><![CDATA[YS]]></productsku>
+		<optionname><![CDATA[Imprint]]></optionname>
+		<choicename><![CDATA[Embroidered logo on one side]]></choicename>
+	</node>
+	<node>
+		<productsku><![CDATA[YS]]></productsku>
+		<optionname><![CDATA[Product colors]]></optionname>
+		<choicename><![CDATA[I will specify/upload the color breakdown]]></choicename>
+	</node>
+	<node>
+		<productsku><![CDATA[YS]]></productsku>
+		<optionname><![CDATA[Product colors]]></optionname>
+		<choicename><![CDATA[Ash Gray]]></choicename>
+	</node>
+	<node>
+		<productsku><![CDATA[YS]]></productsku>
+		<optionname><![CDATA[Product colors]]></optionname>
+		<choicename><![CDATA[Azalea Pink]]></choicename>
+	</node>
+	<node>
+		<productsku><![CDATA[YS]]></productsku>
+		<optionname><![CDATA[Product colors]]></optionname>
+		<choicename><![CDATA[Black]]></choicename>
+	</node>
+	<node>
+		<productsku><![CDATA[YS]]></productsku>
+		<optionname><![CDATA[Product colors]]></optionname>
+		<choicename><![CDATA[Carolina Blue]]></choicename>
+	</node>
+	<node>
+		<productsku><![CDATA[YS]]></productsku>
+		<optionname><![CDATA[Product colors]]></optionname>
+		<choicename><![CDATA[Daisy Yellow]]></choicename>
+	</node>
+	<node>
+		<productsku><![CDATA[YS]]></productsku>
+		<optionname><![CDATA[Product colors]]></optionname>
+		<choicename><![CDATA[Dark Heather Gray]]></choicename>
+	</node>
+	<node>
+		<productsku><![CDATA[YS]]></productsku>
+		<optionname><![CDATA[Product colors]]></optionname>
+		<choicename><![CDATA[Electric Green]]></choicename>
+	</node>
+	<node>
+		<productsku><![CDATA[YS]]></productsku>
+		<optionname><![CDATA[Product colors]]></optionname>
+		<choicename><![CDATA[Forest Green]]></choicename>
+	</node>
+	<node>
+		<productsku><![CDATA[YS]]></productsku>
+		<optionname><![CDATA[Product colors]]></optionname>
+		<choicename><![CDATA[Gold]]></choicename>
+	</node>
+	<node>
+		<productsku><![CDATA[YS]]></productsku>
+		<optionname><![CDATA[Product colors]]></optionname>
+		<choicename><![CDATA[Graphite Heather Gray]]></choicename>
+	</node>
+	<node>
+		<productsku><![CDATA[YS]]></productsku>
+		<optionname><![CDATA[Product colors]]></optionname>
+		<choicename><![CDATA[Heliconia Pink]]></choicename>
+	</node>
+	<node>
+		<productsku><![CDATA[YS]]></productsku>
+		<optionname><![CDATA[Product colors]]></optionname>
+		<choicename><![CDATA[Irish Green]]></choicename>
+	</node>
+	<node>
+		<productsku><![CDATA[YS]]></productsku>
+		<optionname><![CDATA[Product colors]]></optionname>
+		<choicename><![CDATA[Jade Dome Green]]></choicename>
+	</node>
+	<node>
+		<productsku><![CDATA[YS]]></productsku>
+		<optionname><![CDATA[Product colors]]></optionname>
+		<choicename><![CDATA[Kelly Green]]></choicename>
+	</node>
+	<node>
+		<productsku><![CDATA[YS]]></productsku>
+		<optionname><![CDATA[Product colors]]></optionname>
+		<choicename><![CDATA[Light Blue]]></choicename>
+	</node>
+	<node>
+		<productsku><![CDATA[YS]]></productsku>
+		<optionname><![CDATA[Product colors]]></optionname>
+		<choicename><![CDATA[Light Pink]]></choicename>
+	</node>
+	<node>
+		<productsku><![CDATA[YS]]></productsku>
+		<optionname><![CDATA[Product colors]]></optionname>
+		<choicename><![CDATA[Lime Green]]></choicename>
+	</node>
+	<node>
+		<productsku><![CDATA[YS]]></productsku>
+		<optionname><![CDATA[Product colors]]></optionname>
+		<choicename><![CDATA[Maroon Red]]></choicename>
+	</node>
+	<node>
+		<productsku><![CDATA[YS]]></productsku>
+		<optionname><![CDATA[Product colors]]></optionname>
+		<choicename><![CDATA[Navy Blue]]></choicename>
+	</node>
+	<node>
+		<productsku><![CDATA[YS]]></productsku>
+		<optionname><![CDATA[Product colors]]></optionname>
+		<choicename><![CDATA[Orange]]></choicename>
+	</node>
+	<node>
+		<productsku><![CDATA[YS]]></productsku>
+		<optionname><![CDATA[Product colors]]></optionname>
+		<choicename><![CDATA[Orchid Pink]]></choicename>
+	</node>
+	<node>
+		<productsku><![CDATA[YS]]></productsku>
+		<optionname><![CDATA[Product colors]]></optionname>
+		<choicename><![CDATA[Purple]]></choicename>
+	</node>
+	<node>
+		<productsku><![CDATA[YS]]></productsku>
+		<optionname><![CDATA[Product colors]]></optionname>
+		<choicename><![CDATA[Red]]></choicename>
+	</node>
+	<node>
+		<productsku><![CDATA[YS]]></productsku>
+		<optionname><![CDATA[Product colors]]></optionname>
+		<choicename><![CDATA[Royal Blue]]></choicename>
+	</node>
+	<node>
+		<productsku><![CDATA[YS]]></productsku>
+		<optionname><![CDATA[Product colors]]></optionname>
+		<choicename><![CDATA[Safety Green]]></choicename>
+	</node>
+	<node>
+		<productsku><![CDATA[YS]]></productsku>
+		<optionname><![CDATA[Product colors]]></optionname>
+		<choicename><![CDATA[Sand Beige]]></choicename>
+	</node>
+	<node>
+		<productsku><![CDATA[YS]]></productsku>
+		<optionname><![CDATA[Product colors]]></optionname>
+		<choicename><![CDATA[Sapphire Blue]]></choicename>
+	</node>
+	<node>
+		<productsku><![CDATA[YS]]></productsku>
+		<optionname><![CDATA[Product colors]]></optionname>
+		<choicename><![CDATA[Sports Gray]]></choicename>
+	</node>
+	<node>
+		<productsku><![CDATA[YS]]></productsku>
+		<optionname><![CDATA[Product colors]]></optionname>
+		<choicename><![CDATA[Tennessee Orange]]></choicename>
+	</node>
+	<node>
+		<productsku><![CDATA[YS]]></productsku>
+		<optionname><![CDATA[Product colors]]></optionname>
+		<choicename><![CDATA[Texas Orange]]></choicename>
+	</node>
+	<node>
+		<productsku><![CDATA[YS]]></productsku>
+		<optionname><![CDATA[Product colors]]></optionname>
+		<choicename><![CDATA[White]]></choicename>
+	</node>
+	<node>
+		<productsku><![CDATA[YS]]></productsku>
+		<optionname><![CDATA[Product sizes]]></optionname>
+		<choicename><![CDATA[I will specify/upload the size breakdown]]></choicename>
+	</node>
+	<node>
+		<productsku><![CDATA[GS]]></productsku>
+		<optionname><![CDATA[Imprint]]></optionname>
+		<choicename><![CDATA[One color print on one side (Included)]]></choicename>
+	</node>
+	<node>
+		<productsku><![CDATA[GS]]></productsku>
+		<optionname><![CDATA[Imprint]]></optionname>
+		<choicename><![CDATA[Full color on one side]]></choicename>
+	</node>
+	<node>
+		<productsku><![CDATA[GS]]></productsku>
+		<optionname><![CDATA[Imprint]]></optionname>
+		<choicename><![CDATA[Embroidered logo on one side]]></choicename>
+	</node>
+	<node>
+		<productsku><![CDATA[GS]]></productsku>
+		<optionname><![CDATA[Product colors]]></optionname>
+		<choicename><![CDATA[I will specify/upload the color breakdown]]></choicename>
+	</node>
+	<node>
+		<productsku><![CDATA[GS]]></productsku>
+		<optionname><![CDATA[Product colors]]></optionname>
+		<choicename><![CDATA[White]]></choicename>
+	</node>
+	<node>
+		<productsku><![CDATA[GS]]></productsku>
+		<optionname><![CDATA[Product colors]]></optionname>
+		<choicename><![CDATA[Black]]></choicename>
+	</node>
+	<node>
+		<productsku><![CDATA[GS]]></productsku>
+		<optionname><![CDATA[Product colors]]></optionname>
+		<choicename><![CDATA[Charcoal Gray]]></choicename>
+	</node>
+	<node>
+		<productsku><![CDATA[GS]]></productsku>
+		<optionname><![CDATA[Product colors]]></optionname>
+		<choicename><![CDATA[Dark Heather Grey]]></choicename>
+	</node>
+	<node>
+		<productsku><![CDATA[GS]]></productsku>
+		<optionname><![CDATA[Product colors]]></optionname>
+		<choicename><![CDATA[Forest Green]]></choicename>
+	</node>
+	<node>
+		<productsku><![CDATA[GS]]></productsku>
+		<optionname><![CDATA[Product colors]]></optionname>
+		<choicename><![CDATA[Light Blue]]></choicename>
+	</node>
+	<node>
+		<productsku><![CDATA[GS]]></productsku>
+		<optionname><![CDATA[Product colors]]></optionname>
+		<choicename><![CDATA[Maroon Red]]></choicename>
+	</node>
+	<node>
+		<productsku><![CDATA[GS]]></productsku>
+		<optionname><![CDATA[Product colors]]></optionname>
+		<choicename><![CDATA[Navy Blue]]></choicename>
+	</node>
+	<node>
+		<productsku><![CDATA[GS]]></productsku>
+		<optionname><![CDATA[Product colors]]></optionname>
+		<choicename><![CDATA[Purple]]></choicename>
+	</node>
+	<node>
+		<productsku><![CDATA[GS]]></productsku>
+		<optionname><![CDATA[Product colors]]></optionname>
+		<choicename><![CDATA[Red]]></choicename>
+	</node>
+	<node>
+		<productsku><![CDATA[GS]]></productsku>
+		<optionname><![CDATA[Product colors]]></optionname>
+		<choicename><![CDATA[Royal Blue]]></choicename>
+	</node>
+	<node>
+		<productsku><![CDATA[GS]]></productsku>
+		<optionname><![CDATA[Product colors]]></optionname>
+		<choicename><![CDATA[Safety Orange]]></choicename>
+	</node>
+	<node>
+		<productsku><![CDATA[GS]]></productsku>
+		<optionname><![CDATA[Product colors]]></optionname>
+		<choicename><![CDATA[Safety Green]]></choicename>
+	</node>
+	<node>
+		<productsku><![CDATA[GS]]></productsku>
+		<optionname><![CDATA[Product colors]]></optionname>
+		<choicename><![CDATA[Sports Gray]]></choicename>
+	</node>
+	<node>
+		<productsku><![CDATA[GS]]></productsku>
+		<optionname><![CDATA[Product sizes]]></optionname>
+		<choicename><![CDATA[I will specify/upload the size breakdown]]></choicename>
+	</node>
+	<node>
+		<productsku><![CDATA[HU]]></productsku>
+		<optionname><![CDATA[Imprint]]></optionname>
+		<choicename><![CDATA[One color print on one side (Included)]]></choicename>
+	</node>
+	<node>
+		<productsku><![CDATA[HU]]></productsku>
+		<optionname><![CDATA[Imprint]]></optionname>
+		<choicename><![CDATA[Full color on one side]]></choicename>
+	</node>
+	<node>
+		<productsku><![CDATA[HU]]></productsku>
+		<optionname><![CDATA[Imprint]]></optionname>
+		<choicename><![CDATA[Embroidered logo on one side]]></choicename>
+	</node>
+	<node>
+		<productsku><![CDATA[HU]]></productsku>
+		<optionname><![CDATA[Product colors]]></optionname>
+		<choicename><![CDATA[I will specify/upload the color breakdown]]></choicename>
+	</node>
+	<node>
+		<productsku><![CDATA[HU]]></productsku>
+		<optionname><![CDATA[Product colors]]></optionname>
+		<choicename><![CDATA[Black/Red]]></choicename>
+	</node>
+	<node>
+		<productsku><![CDATA[HU]]></productsku>
+		<optionname><![CDATA[Product colors]]></optionname>
+		<choicename><![CDATA[Black/Sport Gray]]></choicename>
+	</node>
+	<node>
+		<productsku><![CDATA[HU]]></productsku>
+		<optionname><![CDATA[Product colors]]></optionname>
+		<choicename><![CDATA[Navy Blue/Gold]]></choicename>
+	</node>
+	<node>
+		<productsku><![CDATA[HU]]></productsku>
+		<optionname><![CDATA[Product colors]]></optionname>
+		<choicename><![CDATA[Navy Blue/Sport Gray]]></choicename>
+	</node>
+	<node>
+		<productsku><![CDATA[HU]]></productsku>
+		<optionname><![CDATA[Product colors]]></optionname>
+		<choicename><![CDATA[Red/Sport Gray]]></choicename>
+	</node>
+	<node>
+		<productsku><![CDATA[HU]]></productsku>
+		<optionname><![CDATA[Product colors]]></optionname>
+		<choicename><![CDATA[Royal Blue/Sport Gray]]></choicename>
+	</node>
+	<node>
+		<productsku><![CDATA[HU]]></productsku>
+		<optionname><![CDATA[Product sizes]]></optionname>
+		<choicename><![CDATA[I will specify/upload the size breakdown]]></choicename>
+	</node>
+	<node>
+		<productsku><![CDATA[Tuque]]></productsku>
+		<optionname><![CDATA[Imprint]]></optionname>
+		<choicename><![CDATA[One color print on one side (Included)]]></choicename>
+	</node>
+	<node>
+		<productsku><![CDATA[Tuque]]></productsku>
+		<optionname><![CDATA[Imprint]]></optionname>
+		<choicename><![CDATA[Full color on one side (Included)]]></choicename>
+	</node>
+	<node>
+		<productsku><![CDATA[Tuque]]></productsku>
+		<optionname><![CDATA[Imprint]]></optionname>
+		<choicename><![CDATA[Embroidered logo on one side]]></choicename>
+	</node>
+	<node>
+		<productsku><![CDATA[Tuque]]></productsku>
+		<optionname><![CDATA[Product colors]]></optionname>
+		<choicename><![CDATA[I will specify/upload the color breakdown]]></choicename>
+	</node>
+	<node>
+		<productsku><![CDATA[Tuque]]></productsku>
+		<optionname><![CDATA[Product colors]]></optionname>
+		<choicename><![CDATA[Black]]></choicename>
+	</node>
+	<node>
+		<productsku><![CDATA[Tuque]]></productsku>
+		<optionname><![CDATA[Product colors]]></optionname>
+		<choicename><![CDATA[Dark Gray]]></choicename>
+	</node>
+	<node>
+		<productsku><![CDATA[Tuque]]></productsku>
+		<optionname><![CDATA[Product colors]]></optionname>
+		<choicename><![CDATA[Forest Green]]></choicename>
+	</node>
+	<node>
+		<productsku><![CDATA[Tuque]]></productsku>
+		<optionname><![CDATA[Product colors]]></optionname>
+		<choicename><![CDATA[Orange]]></choicename>
+	</node>
+	<node>
+		<productsku><![CDATA[Tuque]]></productsku>
+		<optionname><![CDATA[Product colors]]></optionname>
+		<choicename><![CDATA[Navy]]></choicename>
+	</node>
+	<node>
+		<productsku><![CDATA[Tuque]]></productsku>
+		<optionname><![CDATA[Product colors]]></optionname>
+		<choicename><![CDATA[Pink]]></choicename>
+	</node>
+	<node>
+		<productsku><![CDATA[Tuque]]></productsku>
+		<optionname><![CDATA[Product colors]]></optionname>
+		<choicename><![CDATA[Red]]></choicename>
+	</node>
+	<node>
+		<productsku><![CDATA[Tuque]]></productsku>
+		<optionname><![CDATA[Product colors]]></optionname>
+		<choicename><![CDATA[Royal]]></choicename>
+	</node>
+	<node>
+		<productsku><![CDATA[Tuque]]></productsku>
+		<optionname><![CDATA[Product colors]]></optionname>
+		<choicename><![CDATA[Slate]]></choicename>
+	</node>
+	<node>
+		<productsku><![CDATA[Tuque]]></productsku>
+		<optionname><![CDATA[Product colors]]></optionname>
+		<choicename><![CDATA[White]]></choicename>
+	</node>
+	<node>
+		<productsku><![CDATA[Cap]]></productsku>
+		<optionname><![CDATA[Imprint]]></optionname>
+		<choicename><![CDATA[One color print on one side (Included)]]></choicename>
+	</node>
+	<node>
+		<productsku><![CDATA[Cap]]></productsku>
+		<optionname><![CDATA[Imprint]]></optionname>
+		<choicename><![CDATA[Embroidered logo on one side]]></choicename>
+	</node>
+	<node>
+		<productsku><![CDATA[Cap]]></productsku>
+		<optionname><![CDATA[Imprint]]></optionname>
+		<choicename><![CDATA[Embroidered logo on both sides]]></choicename>
+	</node>
+	<node>
+		<productsku><![CDATA[Cap]]></productsku>
+		<optionname><![CDATA[Product colors]]></optionname>
+		<choicename><![CDATA[I will specify/upload the color breakdown]]></choicename>
+	</node>
+	<node>
+		<productsku><![CDATA[Cap]]></productsku>
+		<optionname><![CDATA[Product colors]]></optionname>
+		<choicename><![CDATA[Black/Gold]]></choicename>
+	</node>
+	<node>
+		<productsku><![CDATA[Cap]]></productsku>
+		<optionname><![CDATA[Product colors]]></optionname>
+		<choicename><![CDATA[Black/Red]]></choicename>
+	</node>
+	<node>
+		<productsku><![CDATA[Cap]]></productsku>
+		<optionname><![CDATA[Product colors]]></optionname>
+		<choicename><![CDATA[Black/Stone Beige]]></choicename>
+	</node>
+	<node>
+		<productsku><![CDATA[Cap]]></productsku>
+		<optionname><![CDATA[Product colors]]></optionname>
+		<choicename><![CDATA[Forest Green/Stone Beige]]></choicename>
+	</node>
+	<node>
+		<productsku><![CDATA[Cap]]></productsku>
+		<optionname><![CDATA[Product colors]]></optionname>
+		<choicename><![CDATA[Khaki Beige/Black]]></choicename>
+	</node>
+	<node>
+		<productsku><![CDATA[Cap]]></productsku>
+		<optionname><![CDATA[Product colors]]></optionname>
+		<choicename><![CDATA[Navy Blue/Red]]></choicename>
+	</node>
+	<node>
+		<productsku><![CDATA[Cap]]></productsku>
+		<optionname><![CDATA[Product colors]]></optionname>
+		<choicename><![CDATA[Navy Blue/Stone Beige]]></choicename>
+	</node>
+	<node>
+		<productsku><![CDATA[Cap]]></productsku>
+		<optionname><![CDATA[Product colors]]></optionname>
+		<choicename><![CDATA[Red/Black]]></choicename>
+	</node>
+	<node>
+		<productsku><![CDATA[Cap]]></productsku>
+		<optionname><![CDATA[Product colors]]></optionname>
+		<choicename><![CDATA[Red/White]]></choicename>
+	</node>
+	<node>
+		<productsku><![CDATA[Cap]]></productsku>
+		<optionname><![CDATA[Product colors]]></optionname>
+		<choicename><![CDATA[Royal Blue/White]]></choicename>
+	</node>
+	<node>
+		<productsku><![CDATA[Cap]]></productsku>
+		<optionname><![CDATA[Product colors]]></optionname>
+		<choicename><![CDATA[Stone Beige/Black]]></choicename>
+	</node>
+	<node>
+		<productsku><![CDATA[Cap]]></productsku>
+		<optionname><![CDATA[Product colors]]></optionname>
+		<choicename><![CDATA[Stone Beige/Navy Blue]]></choicename>
+	</node>
+</data>

@@ -1,0 +1,29 @@
+/*
+Theme Name: First Theme
+Theme URI: 
+Author: vijay
+Author URI: http://testURI.org/
+Description: This is css file for creating template.
+Version: 1.0
+
+*/
+
+#h3{color: #488cf9;}
+#h2{color: #488cf9;}
+#sidebar { width:23%; border:2px #a2a2a2 solid; float:right; }
+#post{width:30%; border:2px #3eefdb solid; float:left;}
+/*#header { border: 2px #a2a2a2 solid; }
+#footer { border: 2px #a2a2a2 solid; }*/
+.bottomMenu { display: block; width:960px;}
+.bottomMenu ul { display:inline; float:right;}
+.bottomMenu li { list-style-type: none; display: inline; font-size: 12px; }
+.bottomMenu li a {
+	color:#000;
+	line-height:15px;
+	text-decoration:none;
+	font-weight:normal;
+	border-right: thin solid #000;
+	padding: 0 7px 0 3px;
+}
+.bottomMenu li a:hover { color:#ccc; text-decoration:underline;}
+.bottomMenu li:last-child > a {border-right: none;} /* remove pipe from last item */
